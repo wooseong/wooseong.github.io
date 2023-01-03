@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "python-01-summary"
+---
+
 # 프로그래밍 개요
 
 ## 프로그램(Program)이란
